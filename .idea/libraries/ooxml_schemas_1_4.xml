@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ooxml-schemas-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ooxml-schemas-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/openxml4j-1.0-beta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-5.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-5.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
